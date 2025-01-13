@@ -4,8 +4,7 @@
 <p align="center">
 <a href="https://github.com/Nary-Inductive-SubGraph/blob/master/LICENSE">
 <img src="https://img.shields.io/badge/License-MIT-red.svg"></a>
-<a href="https://guiltless-chalk-a57.notion.site/Inductive-Link-Prediction-on-N-ary-Relational-Facts-via-Semantic-Hypergraph-Reasoning-17ac80b1bb69802cb834d2d9457a426d?pvs=4"><img src="https://img.shields.io/badge/Blog-Notion-orange?logo=Notion
-"></a>
+<a href="https://guiltless-chalk-a57.notion.site/Inductive-Link-Prediction-on-N-ary-Relational-Facts-via-Semantic-Hypergraph-Reasoning-17ac80b1bb69802cb834d2d9457a426d?pvs=4"><img src="https://img.shields.io/badge/Blog-Notion-orange"></a>
 <a href="https://wandb.ai/catyin/Nary-Inductive-SubG/reports/Report--VmlldzoxMDkxMjcyNw?accessToken=2n7v6x8o328w3oq45toq5d5fe60tmdgonng1xdmn0dii7jqek6ixkx3jm1jcfe54">
 <img src="https://img.shields.io/badge/Report-wandb-ffbf00"></a>
 <a href="https://figshare.com/s/b97b50ffa6bd8e5a054c"><img src="https://img.shields.io/badge/dataset-figshare-green?logo=figshare"></a>
