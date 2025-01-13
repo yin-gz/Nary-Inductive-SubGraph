@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Nary-Inductive-SubGraph/blob/master/LICENSE">
+<a href="">
 <img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 <a href="https://guiltless-chalk-a57.notion.site/Inductive-Link-Prediction-on-N-ary-Relational-Facts-via-Semantic-Hypergraph-Reasoning-17ac80b1bb69802cb834d2d9457a426d?pvs=4"><img src="https://img.shields.io/badge/Blog-Notion-red?logo=Notion
 "></a>
