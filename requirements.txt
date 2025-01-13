@@ -1,0 +1,13 @@
+wandb
+transformers
+ninja
+matplotlib
+numpy
+PyYAML
+scikit_learn
+torch
+tqdm
+torch_geometric
+torch_scatter
+torch_sparse
+pyg-lib
