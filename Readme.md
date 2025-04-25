@@ -9,10 +9,15 @@
 <img src="https://img.shields.io/badge/Report-wandb-ffbf00"></a>
 <a href="https://figshare.com/s/b97b50ffa6bd8e5a054c"><img src="https://img.shields.io/badge/dataset-figshare-green?logo=figshare"></a>
 <a href="https://doi.org/10.5281/zenodo.14637435"><img src="https://zenodo.org/badge/915948920.svg"></a>
-<a href=""><img src="https://img.shields.io/badge/Slide-Video-purple"></a>
+<a href="https://dl.acm.org/doi/10.1145/3690624.3709195"><img src="https://img.shields.io/badge/Slide-Video-purple"></a>
 </p>
 
 The official codes for paper "Inductive Link Prediction on N-ary Relational Facts via Semantic Hypergraph Reasoning" [KDD'25, V.1]. 
+## :relaxed:Welcome to the blogs for this paper:
+
+[English Version](https://guiltless-chalk-a57.notion.site/Inductive-Link-Prediction-on-N-ary-Relational-Facts-via-Semantic-Hypergraph-Reasoning-17ac80b1bb69802cb834d2d9457a426d)
+
+[Chinese Version](https://guiltless-chalk-a57.notion.site/N-197c80b1bb698070945ae54faf14e040?pvs=74)
 
 ## Overview of the proposed NS-HART
   <img align="center"  src="./main.png" alt="...">
@@ -125,12 +130,17 @@ python run.py -dataset "FI_WD20K100" -version "v1" -model_name "HyperAggModel" -
 #### If you find this work helpful, please kindly cite:
 
 ```
-@inproceedings{NS-HART,
-  title={Inductive Link Prediction on N-ary Relational Facts via Semantic
-Hypergraph Reasoning},
-  author={Yin, Gongzhu and Zhang, Hongli and Yang, Yuchen and Luo, Yi},
-  booktitle={KDD},
-  year={2025}
+@inproceedings{10.1145/3690624.3709195,
+author = {Yin, Gongzhu and Zhang, Hongli and Yang, Yuchen and Luo, Yi},
+title = {Inductive Link Prediction on N-ary Relational Facts via Semantic Hypergraph Reasoning},
+year = {2025},
+isbn = {9798400712456},
+url = {https://doi.org/10.1145/3690624.3709195},
+doi = {10.1145/3690624.3709195},
+booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1},
+pages = {1821–1832},
+numpages = {12},
+series = {KDD '25}
 }
 ```
 
